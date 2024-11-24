@@ -41,4 +41,4 @@ Advanced analytics for optimizing hospital resource management.
 
 
 
-ChatGPT can make mistakes. Check important info.
+
